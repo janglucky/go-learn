@@ -1,0 +1,2 @@
+# Project exclude paths
+/src/main/pkg/mod/github.com/kataras/iris/v12@v12.1.8/typescript/_examples/editor/www/scripts/app.js
